@@ -1,0 +1,23 @@
+# YouTube OAuth Credentials (Configured as GitHub Actions Secrets)
+client_secrets.json
+token.json
+
+# Video and Media Render Artifacts
+*.mp4
+*.mov
+*.wav
+*.mp3
+!assets/music/swoosh.mp3
+output/longform/*.mp4
+output/shorts/*.mp4
+output/temp/*
+!output/temp/.gitkeep
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.log

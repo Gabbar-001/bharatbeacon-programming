@@ -1,0 +1,58 @@
+{
+  "python_longform": {
+    "id": "PLZMwwKlRTaj0",
+    "title": "Python Masterclass (60 Days Zero to Hero)",
+    "type": "longform",
+    "track": "python",
+    "url": "https://www.youtube.com/playlist?list=PLZMwwKlRTaj0"
+  },
+  "java_longform": {
+    "id": "PLEcSKSE74kf8",
+    "title": "Java Masterclass (60 Days Core to Enterprise)",
+    "type": "longform",
+    "track": "java",
+    "url": "https://www.youtube.com/playlist?list=PLEcSKSE74kf8"
+  },
+  "mongodb_longform": {
+    "id": "PLL3DADVzng50",
+    "title": "MongoDB Complete Guide (60 Days NoSQL Mastery)",
+    "type": "longform",
+    "track": "mongodb",
+    "url": "https://www.youtube.com/playlist?list=PLL3DADVzng50"
+  },
+  "sql_longform": {
+    "id": "PLJQH5RXmQ8JA",
+    "title": "SQL Masterclass (60 Days Zero to Hero)",
+    "type": "longform",
+    "track": "sql",
+    "url": "https://www.youtube.com/playlist?list=PLJQH5RXmQ8JA"
+  },
+  "python_shorts": {
+    "id": "PLAYfkU-guA_s",
+    "title": "Python Shorts & Interview Tricks",
+    "type": "shorts",
+    "track": "python",
+    "url": "https://www.youtube.com/playlist?list=PLAYfkU-guA_s"
+  },
+  "java_shorts": {
+    "id": "PLAbl3Hjt9xes",
+    "title": "Java Shorts & OOP Riddles",
+    "type": "shorts",
+    "track": "java",
+    "url": "https://www.youtube.com/playlist?list=PLAbl3Hjt9xes"
+  },
+  "mongodb_shorts": {
+    "id": "PLV-RkSFBoHzI",
+    "title": "MongoDB Shorts & Quick Tips",
+    "type": "shorts",
+    "track": "mongodb",
+    "url": "https://www.youtube.com/playlist?list=PLV-RkSFBoHzI"
+  },
+  "sql_shorts": {
+    "id": "PLFPXUdMgM0HI",
+    "title": "SQL Shorts & Query Hacks",
+    "type": "shorts",
+    "track": "sql",
+    "url": "https://www.youtube.com/playlist?list=PLFPXUdMgM0HI"
+  }
+}

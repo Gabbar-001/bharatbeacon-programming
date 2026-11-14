@@ -1,0 +1,217 @@
+{
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H00_PYTHON.mp4": {
+    "video_id": "uDWd2_5E4rE",
+    "title": "Why a = b in Python Breaks Your Code at 2 AM #Shorts #Python",
+    "schedule_ist": "15 Nov 2026, 12:00 AM IST",
+    "publish_at_utc": "2026-11-14T18:30:00.000Z",
+    "playlist_id": "PLAYfkU-guA_s",
+    "type": "short"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H01_JAVA.mp4": {
+    "video_id": "cJnOKFr_Uz4",
+    "title": "Why Banks Still Pay $200k for Java After 30 Years #Shorts #Java",
+    "schedule_ist": "15 Nov 2026, 01:00 AM IST",
+    "publish_at_utc": "2026-11-14T19:30:00.000Z",
+    "playlist_id": "PLAbl3Hjt9xes",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:53:14"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H02_MONGODB.mp4": {
+    "video_id": "5KLGPx5Vhmg",
+    "title": "Why Amazon Tore Down SQL Tables for NoSQL Documents #Shorts #MongoDB",
+    "schedule_ist": "15 Nov 2026, 02:00 AM IST",
+    "publish_at_utc": "2026-11-14T20:30:00.000Z",
+    "playlist_id": "PLV-RkSFBoHzI",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:53:20"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H03_SQL.mp4": {
+    "video_id": "fC6uy7YarfE",
+    "title": "What Happens When a Bank DB Crashes Mid-Transfer? #Shorts #SQL",
+    "schedule_ist": "15 Nov 2026, 03:00 AM IST",
+    "publish_at_utc": "2026-11-14T21:30:00.000Z",
+    "playlist_id": "PLFPXUdMgM0HI",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:53:26"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H04_PYTHON.mp4": {
+    "video_id": "dh0kVmcw5FA",
+    "title": "Python Small Integer Caching Mystery (256 vs 257) #Shorts #Python",
+    "schedule_ist": "15 Nov 2026, 04:00 AM IST",
+    "publish_at_utc": "2026-11-14T22:30:00.000Z",
+    "playlist_id": "PLAYfkU-guA_s",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:53:32"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H05_JAVA.mp4": {
+    "video_id": "WresaF1ppOA",
+    "title": "The String Pool Trap in Java (== vs .equals) #Shorts #Java",
+    "schedule_ist": "15 Nov 2026, 05:00 AM IST",
+    "publish_at_utc": "2026-11-14T23:30:00.000Z",
+    "playlist_id": "PLAbl3Hjt9xes",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:53:37"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H06_MONGODB.mp4": {
+    "video_id": "Gmak5NLPFew",
+    "title": "What is Secretly Hidden Inside a MongoDB ObjectId? #Shorts #MongoDB",
+    "schedule_ist": "15 Nov 2026, 06:00 AM IST",
+    "publish_at_utc": "2026-11-15T00:30:00.000Z",
+    "playlist_id": "PLV-RkSFBoHzI",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:53:42"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H07_SQL.mp4": {
+    "video_id": "TcS8esP4Jgw",
+    "title": "Primary Key vs Unique Key: The Crucial Difference #Shorts #SQL",
+    "schedule_ist": "15 Nov 2026, 07:00 AM IST",
+    "publish_at_utc": "2026-11-15T01:30:00.000Z",
+    "playlist_id": "PLFPXUdMgM0HI",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:53:48"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H08_PYTHON.mp4": {
+    "video_id": "R_JyE1oKmWA",
+    "title": "Python 1-Line Swap Magic: a, b = b, a #Shorts #Python",
+    "schedule_ist": "15 Nov 2026, 08:00 AM IST",
+    "publish_at_utc": "2026-11-15T02:30:00.000Z",
+    "playlist_id": "PLAYfkU-guA_s",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:53:54"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H09_PYTHON.mp4": {
+    "video_id": "gT4VJFu_c6Q",
+    "title": "Python Day 1 Masterclass Dropping in 1 Hour! #Shorts #Python",
+    "schedule_ist": "15 Nov 2026, 09:00 AM IST",
+    "publish_at_utc": "2026-11-15T03:30:00.000Z",
+    "playlist_id": "PLAYfkU-guA_s",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:53:59"
+  },
+  "D:\\Enginnering\\output\\longform\\MASTERCLASS_DAY01_PYTHON.mp4": {
+    "video_id": "vvcH-BEdtB0",
+    "title": "Python Day 1: How Python Actually Manages Memory (Variables, Pointers & The Stack/Heap)",
+    "schedule_ist": "15 Nov 2026, 10:00 AM IST",
+    "publish_at_utc": "2026-11-15T04:30:00.000Z",
+    "playlist_id": "PLZMwwKlRTaj0",
+    "type": "masterclass",
+    "uploaded_at": "2026-11-14 10:54:09"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H11_JAVA.mp4": {
+    "video_id": "0cOGWTX984E",
+    "title": "Java Day 1 Masterclass Dropping in 1 Hour! #Shorts #Java",
+    "schedule_ist": "15 Nov 2026, 11:00 AM IST",
+    "publish_at_utc": "2026-11-15T05:30:00.000Z",
+    "playlist_id": "PLAbl3Hjt9xes",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:54:14"
+  },
+  "D:\\Enginnering\\output\\longform\\MASTERCLASS_DAY01_JAVA.mp4": {
+    "video_id": "up76WxBjNZM",
+    "title": "Java Day 1: Inside the JVM: Bytecode, ClassLoader & Memory Architecture",
+    "schedule_ist": "15 Nov 2026, 12:00 PM IST",
+    "publish_at_utc": "2026-11-15T06:30:00.000Z",
+    "playlist_id": "PLEcSKSE74kf8",
+    "type": "masterclass",
+    "uploaded_at": "2026-11-14 10:54:23"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H13_MONGODB.mp4": {
+    "video_id": "Cjgfvi5knvg",
+    "title": "MongoDB Day 1 Masterclass Dropping in 1 Hour! #Shorts #MongoDB",
+    "schedule_ist": "15 Nov 2026, 01:00 PM IST",
+    "publish_at_utc": "2026-11-15T07:30:00.000Z",
+    "playlist_id": "PLV-RkSFBoHzI",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:54:28"
+  },
+  "D:\\Enginnering\\output\\longform\\MASTERCLASS_DAY01_MONGODB.mp4": {
+    "video_id": "8txuJzsdsK8",
+    "title": "MongoDB Day 1: Beyond Rows & Tables: Thinking in Documents & BSON",
+    "schedule_ist": "15 Nov 2026, 02:00 PM IST",
+    "publish_at_utc": "2026-11-15T08:30:00.000Z",
+    "playlist_id": "PLL3DADVzng50",
+    "type": "masterclass",
+    "uploaded_at": "2026-11-14 10:54:39"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H15_PYTHON.mp4": {
+    "video_id": "LZutPhuG31o",
+    "title": "Spot the Bug: The Mutable Default List Trap #Shorts #Python",
+    "schedule_ist": "15 Nov 2026, 03:00 PM IST",
+    "publish_at_utc": "2026-11-15T09:30:00.000Z",
+    "playlist_id": "PLAYfkU-guA_s",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:54:45"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H16_JAVA.mp4": {
+    "video_id": "VbCtrzy8ZG8",
+    "title": "The String Concatenation Loop Trap in Java #Shorts #Java",
+    "schedule_ist": "15 Nov 2026, 04:00 PM IST",
+    "publish_at_utc": "2026-11-15T10:30:00.000Z",
+    "playlist_id": "PLAbl3Hjt9xes",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:54:50"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H17_SQL.mp4": {
+    "video_id": "S_MlLXySb-k",
+    "title": "SQL Day 1 Masterclass Dropping in 1 Hour! #Shorts #SQL",
+    "schedule_ist": "15 Nov 2026, 05:00 PM IST",
+    "publish_at_utc": "2026-11-15T11:30:00.000Z",
+    "playlist_id": "PLFPXUdMgM0HI",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:54:55"
+  },
+  "D:\\Enginnering\\output\\longform\\MASTERCLASS_DAY01_SQL.mp4": {
+    "video_id": "5kNrGntiNDU",
+    "title": "SQL Day 1: The Relational Blueprint: ACID Transactions, Schemas & Constraints",
+    "schedule_ist": "15 Nov 2026, 06:00 PM IST",
+    "publish_at_utc": "2026-11-15T12:30:00.000Z",
+    "playlist_id": "PLJQH5RXmQ8JA",
+    "type": "masterclass",
+    "uploaded_at": "2026-11-14 10:55:05"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H19_MONGODB.mp4": {
+    "video_id": "sSA5n72w-Ck",
+    "title": "The 16MB MongoDB Document Limit Trap #Shorts #MongoDB",
+    "schedule_ist": "15 Nov 2026, 07:00 PM IST",
+    "publish_at_utc": "2026-11-15T13:30:00.000Z",
+    "playlist_id": "PLV-RkSFBoHzI",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:55:11"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H20_SQL.mp4": {
+    "video_id": "E_f0Q2UHlac",
+    "title": "DELETE vs TRUNCATE vs DROP in SQL (FAANG Classic) #Shorts #SQL",
+    "schedule_ist": "15 Nov 2026, 08:00 PM IST",
+    "publish_at_utc": "2026-11-15T14:30:00.000Z",
+    "playlist_id": "PLFPXUdMgM0HI",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:55:16"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H21_PYTHON.mp4": {
+    "video_id": "idIz1KbcVBE",
+    "title": "FAANG Interview: Is Python Call-by-Value or Reference? #Shorts #Python",
+    "schedule_ist": "15 Nov 2026, 09:00 PM IST",
+    "publish_at_utc": "2026-11-15T15:30:00.000Z",
+    "playlist_id": "PLAYfkU-guA_s",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:55:21"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H22_JAVA.mp4": {
+    "video_id": "LIPWAkBqbnU",
+    "title": "Can You Run Java Code Without a main() Method? #Shorts #Java",
+    "schedule_ist": "15 Nov 2026, 10:00 PM IST",
+    "publish_at_utc": "2026-11-15T16:30:00.000Z",
+    "playlist_id": "PLAbl3Hjt9xes",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:55:26"
+  },
+  "D:\\Enginnering\\output\\shorts\\SHORT_DAY01_H23_SQL.mp4": {
+    "video_id": "pukZxZRMZ00",
+    "title": "The Orphaned Row Disaster: ON DELETE CASCADE #Shorts #SQL",
+    "schedule_ist": "15 Nov 2026, 11:00 PM IST",
+    "publish_at_utc": "2026-11-15T17:30:00.000Z",
+    "playlist_id": "PLFPXUdMgM0HI",
+    "type": "short",
+    "uploaded_at": "2026-11-14 10:55:32"
+  }
+}
