@@ -1,7 +1,8 @@
 {
-  "last_scheduled_day": 1,
-  "next_day_to_run": 2,
+  "last_scheduled_day": 2,
+  "next_day_to_run": 3,
   "day_1_scheduled_for": "2026-11-15",
   "status": "Day 1 is fully produced, uploaded, and scheduled on YouTube (24 videos: 20 Shorts + 4 Masterclasses)",
-  "updated_at": "2026-11-14 11:00:00 IST"
+  "updated_at": "2026-11-15 00:50:15 IST",
+  "day_2_scheduled_for": "2026-11-16"
 }
