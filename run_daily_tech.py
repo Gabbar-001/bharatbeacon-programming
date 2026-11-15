@@ -141,6 +141,20 @@ def execute_daily_tech_pipeline():
         vid = upload_video(meta)
         scheduled_shorts.append({"hour": hr, "video_id": vid, "title": s["title"]})
 
+        # Post-upload cleanup for this short
+        if vid:
+            try:
+                if out_short.exists():
+                    out_short.unlink(missing_ok=True)
+                audio_p = temp_shorts_dir / f"audio_h{hr:02d}.mp3"
+                frame_p = temp_shorts_dir / f"frame_h{hr:02d}.jpg"
+                if audio_p.exists():
+                    audio_p.unlink(missing_ok=True)
+                if frame_p.exists():
+                    frame_p.unlink(missing_ok=True)
+            except Exception:
+                pass
+
     # 5. Render & Schedule 4 Full Masterclasses
     print(f"\n[2/2] Rendering & Scheduling 4 Masterclasses for Day {target_day}...")
     masterclass_hours = {"python": 10, "java": 12, "mongodb": 14, "sql": 18}
@@ -191,7 +205,35 @@ TIMESTAMPS:
         vid = upload_video(meta)
         scheduled_masterclasses.append({"track": track, "video_id": vid, "title": mc["title"]})
 
-    # 6. Update Tracker
+        # Post-upload cleanup for this masterclass
+        if vid:
+            try:
+                if out_mc.exists():
+                    out_mc.unlink(missing_ok=True)
+            except Exception:
+                pass
+
+    # 6. Post-Run Global Disk Cleanup: Purge temp slice segments and frame caches
+    print("\n[CLEANUP] Cleaning up intermediate temp segments and cache directories...")
+    try:
+        import shutil
+        if temp_shorts_dir.exists():
+            shutil.rmtree(temp_shorts_dir, ignore_errors=True)
+        mc_build = config.TEMP_DIR / "masterclass_build"
+        if mc_build.exists():
+            shutil.rmtree(mc_build, ignore_errors=True)
+        # Sweep any remaining temporary build artifacts
+        if config.TEMP_DIR.exists():
+            for it in config.TEMP_DIR.iterdir():
+                if it.is_file():
+                    it.unlink(missing_ok=True)
+                elif it.is_dir():
+                    shutil.rmtree(it, ignore_errors=True)
+        print("  [OK] Daily tech disk cleanup completed successfully.")
+    except Exception as ce:
+        print(f"  [!] Note on post-run cleanup: {ce}")
+
+    # 7. Update Tracker
     tracker["last_scheduled_day"] = target_day
     tracker["next_day_to_run"] = target_day + 1
     tracker[f"day_{target_day}_scheduled_for"] = target_date.strftime("%Y-%m-%d")
