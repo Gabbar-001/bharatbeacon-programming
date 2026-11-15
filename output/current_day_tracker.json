@@ -2,7 +2,8 @@
   "last_scheduled_day": 2,
   "next_day_to_run": 3,
   "day_1_scheduled_for": "2026-11-15",
-  "status": "Day 1 is fully produced, uploaded, and scheduled on YouTube (24 videos: 20 Shorts + 4 Masterclasses)",
-  "updated_at": "2026-11-15 00:50:15 IST",
-  "day_2_scheduled_for": "2026-11-16"
+  "day_2_scheduled_for": "2026-11-16",
+  "status": "Day 2 is fully produced, uploaded, and scheduled on YouTube (24 videos: 20 Shorts + 4 Masterclasses)",
+  "masterclass_duration_standard": "10-15 minutes (14-16 slides, ~1600 words per episode starting Day 3)",
+  "updated_at": "2026-11-16 01:05:00 IST"
 }
